@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hilal-kurnaz/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=quare&labelColor=000&logo=Medium&logoColor=white&link=link)](https://hilalkurnaz3344.medium.com/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=quare&labelColor=000&logo=Medium&logoColor=white&link=link)](https://hilalkurnaz.medium.com/) 
 
 
 
