@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working Java
-- 🌱 I’m currently learning Java, Kotlin and Angular
+- 🌱 I’m currently learning Kotlin and Spring Boot
 
 
 <h3 align="left">Connect with me:</h3>
