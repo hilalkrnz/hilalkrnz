@@ -5,8 +5,8 @@
   And I love Java 🤍
 
 
-- 🔭 I’m currently working Java
-- 🌱 I’m currently learning Kotlin and Spring Boot
+- 🔭 I’m currently working Kotlin
+- 🌱 I’m currently learning Spring Boot
 
 
 <h3 align="left">Connect with me:</h3>
