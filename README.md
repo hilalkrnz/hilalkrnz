@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Hilal 👋</h1>
   
   I am a computer engineering student. I'm self-developing in the Android field. 
-  And I love Java 🤍
 
 
 - 🔭 I’m currently working Kotlin
