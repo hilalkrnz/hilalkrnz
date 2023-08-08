@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi, I'm Hilal 👋</h1>
   
-  I am a computer engineering student. I'm self-developing in the Android field. 
+  I am a computer engineer. I'm self-developing in the Android field. 
 
 
-- 🔭 I’m currently working Kotlin
-- 🌱 I’m currently learning Spring Boot
+- 🔭 I’m currently working Android
+- 🌱 I’m currently learning Kotlin
 
 
 <h3 align="left">Connect with me:</h3>
