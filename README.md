@@ -19,6 +19,6 @@
 
   <p align="center">
     
-  <img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api?username=hilalkrnz&show_icons=true&count_private=true&theme=darcula&bg_color=00000000"> 
-  <img height="50%" width="auto" src = "https://github-readme-streak-stats.herokuapp.com?user=hilalkrnz&theme=darcula&background=FFFFFF00"> 
+  <img height="120" width="auto" src = "https://github-readme-stats.vercel.app/api?username=hilalkrnz&show_icons=true&count_private=true&theme=darcula&bg_color=00000000"> 
+  <img height="120" width="auto" src = "https://github-readme-streak-stats.herokuapp.com?user=hilalkrnz&theme=darcula&background=FFFFFF00"> 
   </p>
