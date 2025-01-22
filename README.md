@@ -8,7 +8,7 @@
   👩🏻‍💻 I am a Computer Engineer working in Android development.
 - 🌱 I’m learning Kotlin and Jetpack Compose
 - 💬 Ask me about anything, I'm happy to help
-- 🥅 My 2024 goals: Improve my algorithmic thinking, become a better version of myself, and read lots of books!
+- 🥅 My 2025 goals: Improve my algorithmic thinking, become a better version of myself, and read lots of books!
 - ⚡ Fun fact: When not coding, I enjoy playing computer games and hiking!
 
 <h3 align="left">Connect with me:</h3>
