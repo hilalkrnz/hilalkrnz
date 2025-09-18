@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-8080ff?style=quare&labelColor=8080ff&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hilal-kurnaz/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-8080ff?style=quare&labelColor=8080ff&logo=Medium&logoColor=white&link=link)](https://hilalkurnaz.medium.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-8080ff?style=quare&labelColor=8080ff&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hilallkara/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-8080ff?style=quare&labelColor=8080ff&logo=Medium&logoColor=white&link=link)](https://hilallkara.medium.com/) 
 
 
   <p align="center">
